@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0; box-sizing: border-box;
+
+}
+
+.carousle-inner img{
+    width: 100%;
+    height: fit-content;
+}
+
+/* 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900 */
+body {
+    font-family: "Trirong", serif;
+  };
+
+  .aboutimg{
+    width: 100%;
+    height : 250px!important;
+  };
